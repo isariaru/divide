@@ -3,12 +3,8 @@
   "1.11.2": {
     "1.0.0": "Creating the mod", 
   },
-  ...
   "promos": {
     "1.11.2-latest": "1.0.0",
-    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
     "1.11.2-recommended": "1.0.0",
-    // Declare the latest "stable" version of your mod for the given Minecraft version
-    ...
   }
 }
